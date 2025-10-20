@@ -2,6 +2,7 @@
 
 ### Students: Elbek Meliboev 220730
 ### Abdulaziz Khushmuhammadiev 220520
+### Abdurahmon Obidjonov 220940 
 
 ## Project Overview
 This project explores **Prompt-Tuned Vision Transformers (ViTs)** for **fine-grained image recognition** tasks such as classifying bird species or flower types.  
